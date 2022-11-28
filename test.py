@@ -1,14 +1,6 @@
 '''
 Created on 15 Eyl 2019
 
-aþaðýdaki errorü araþtýr:
-Traceback (most recent call last):
-  File "test.py", line 8, in <module>
-    from bs4 import BeautifulSoup , soup
-ImportError: cannot import name 'soup' from 'bs4' (C:\Users\Hp\AppData\Local\Programs\Python\Python37-32\lib\site-packages\bs4\__init__.py)
-
-C:\Users\Hp\workspace\pythonproject><
-@author: Hp
 '''
 import requests
 
